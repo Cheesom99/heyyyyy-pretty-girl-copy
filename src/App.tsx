@@ -22,28 +22,27 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, pretty girl.",
+      content: "Heyyyyy, Asaaaaa m😙❤️.",
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `Since I set my eyes on you, you have always been on my mind.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Then we went on those walks (you dey walka oo🤣)…And I realized—yep, I want this girl. For life.
       `,
       image: "/character/three.png",
     },
     {
-      content: `You're beautiful, you're smart, you're fun,
-and you make spending time together feel too short.`,
+      content: `You're beautiful, you're smart, you're funny sometimes,
+and time spent with you is top notch`,
       image: "/character/four.png",
     },
     {
       content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+hold your hands, press your neck😉, and kiss you looking into your pretty brown eyes.`,
       image: "/character/five.png",
     },
     {
